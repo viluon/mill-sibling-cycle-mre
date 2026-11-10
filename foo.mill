@@ -1,3 +1,0 @@
-package build
-
-trait Foo extends Bar
